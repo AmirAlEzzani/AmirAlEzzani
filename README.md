@@ -1,7 +1,7 @@
-<h1 align="center">
+<h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Amir!;" />
-</h1>
-
+</h3>
+<hr/>
 <h3 align="center">Aspiring Full-Stack Developer & Software Engineer</h3>
 
 <br/>
@@ -12,17 +12,17 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AmirAlEzzani&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=transparent&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-<h2 align="center">What I use</h2>
-<br/>
-<h3 align="center">Languages</h3>
+<hr/>
+<h3 align="center">What I use</h2>
+<h4 align="center">Languages</h3>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,python,java,cpp" />
 </div>
 <br/>
-<h3 align="center">Frameworks</h3>
+<h4 align="center">Frameworks</h3>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=nodejs,react,bootstrap,nextjs" />
 <br/>
-<h3 align="center">Tools</h3>
+<h4 align="center">Tools</h3>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=vscode,qt,git,github,figma,aws,mysql" />

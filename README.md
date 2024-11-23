@@ -20,7 +20,9 @@
 </div>
 <br/>
 <h3 align="center">Frameworks</h3>
+<div align="center">
     <img src="https://skillicons.dev/icons?i=nodejs,react,bootstrap,nextjs" />
 <br/>
 <h3 align="center">Tools</h3>
+<div align="center">
     <img src="https://skillicons.dev/icons?i=vscode,qt,git,github,figma,aws,mysql" />

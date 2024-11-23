@@ -1,7 +1,7 @@
-<h3 align="center">
+<h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Amir!;" />
-</h3>
-<hr/>
+</h1>
+
 <h3 align="center">Aspiring Full-Stack Developer & Software Engineer</h3>
 
 <br/>
@@ -13,7 +13,7 @@
 </div>
 
 <hr/>
-<h3 align="center">What I use</h2>
+<h3 align="center">My Tech Stack</h2>
 <h4 align="center">Languages</h3>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,python,java,cpp" />

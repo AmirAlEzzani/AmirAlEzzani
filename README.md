@@ -21,11 +21,19 @@
 <br/>
 <h4 align="center">Frameworks</h3>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,axios,react,tailwind" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,react,tailwind" />
+<br/>
+<h4 align="center">Databases</h3>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+<br/>
+<h4 align="center">Cloud</h3>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=aws,azure,googlecloud,firebase" />
 <br/>
 <h4 align="center">Tools</h3>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,qt,git,github,figma,mysql,aws,googlecloud,firebase" />
+    <img src="https://skillicons.dev/icons?i=vscode,qt,git,github,figma" />
 <hr/>
 <h3 align="center">Contact Me</h2>
   <a href="mailto:amiralezzani@gmail.com">

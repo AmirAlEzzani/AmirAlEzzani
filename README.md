@@ -21,7 +21,7 @@
 <br/>
 <h4 align="center">Frameworks</h3>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,react,bootstrap,nextjs" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,axios,react,tailwind" />
 <br/>
 <h4 align="center">Tools</h3>
 <div align="center">

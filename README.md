@@ -19,9 +19,9 @@
     <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,python,java,cpp" />
 </div>
 <br/>
-<h4 align="center">Frameworks</h3>
+<h4 align="center">Tools</h3>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,react,tailwind" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,react,tailwind,vite" />
 <br/>
 <h4 align="center">Databases</h3>
 <div align="center">
@@ -31,7 +31,7 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=aws,azure,googlecloud,firebase" />
 <br/>
-<h4 align="center">Tools</h3>
+<h4 align="center">Utilities</h3>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=vscode,qt,git,github,figma" />
 <hr/>

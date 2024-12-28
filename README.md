@@ -21,7 +21,7 @@
 <br/>
 <h4 align="center">Tools</h3>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,react,tailwind,vite" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,react,vite" />
 <br/>
 <h4 align="center">Databases</h3>
 <div align="center">

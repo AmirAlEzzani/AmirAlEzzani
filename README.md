@@ -1,5 +1,5 @@
 
-<h3 align="center">Entry-Level Software Developer</h3>
+<h2 align="center">Entry-Level Software Developer</h3>
 
 <h3 align="center">My Tech Stack</h2>
 <h4 align="center">Languages</h3>
